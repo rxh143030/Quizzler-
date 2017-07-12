@@ -1,7 +1,6 @@
 # Quizzler
-Learn to make iOS Apps 📱 | Project Stub | (Swift 2.0/Xcode 7) - Quizzler App
 
-Download the starter project files as .zip and extract to your desktop. --->
+-- Recreated by Richard Huynh
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
